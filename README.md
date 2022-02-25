@@ -7,7 +7,7 @@ It has been deployed on Heroku.
 
 ![alt-text](https://i.ibb.co/0Chdj5P/vv.jpg) 
 
-Frontend: [https://github.com/nahir29/fileTransfer](https://github.com/nahir29/fileTransfer)
+Frontend: [https://github.com/nahir29/file-Share](https://github.com/nahir29/fileTransfer)
 
 ## Acknowledgement:
 
