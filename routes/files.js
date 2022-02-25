@@ -17,9 +17,9 @@ let upload = multer({ storage, limits: { fileSize: 1024 * 1024 * 10 }, }).single
 router.post('/', (req, res) => {
     upload(req, res, async(err) => {
 
-        if (!req.file) {
-            return res.json({ error: 'all fields are required!!' });
-        }
+//         if (!req.file) {
+//             return res.json({ error: 'all fields are required!!' });
+//         }
 
         if (err) {
             return res.status(500).send({ error: err.message });
